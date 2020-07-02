@@ -18,7 +18,7 @@ bool finding(QString S, QString findS){
         buf = "";
         i++;
     }
-
+//test
     return(Res);
 }
 
